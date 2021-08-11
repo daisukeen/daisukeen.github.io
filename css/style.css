@@ -1,5 +1,19 @@
 h1 {
   font-size: 24px;
-  padding-bottom: 8px;
+  padding: 16px 8px 8px;
+  text-align: center;
   border-bottom: 1px solid #ddd;
+}
+
+p {
+  text-align: center;
+}
+
+img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+.image {
+  text-align: center;
 }
